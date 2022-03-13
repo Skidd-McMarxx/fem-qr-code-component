@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://john-csm-tate.github.io/fem-qr-code-component/](https://john-csm-tate.github.io/fem-qr-code-component/)
+- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/responsive-qr-code-component-GZoQQjIB4)
+- Live Site URL: [Live Github Page](https://john-csm-tate.github.io/fem-qr-code-component/)
 
 ## My process
 
