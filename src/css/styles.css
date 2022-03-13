@@ -4,6 +4,7 @@
     --card-bg-color: hsl(0, 0%, 100%);
     --card-text-header: hsl(218, 44%, 22%);
     --card-text-desc: hsl(220, 15%, 55%);
+    --card-shadow: rgba(160, 160, 160, 0.5);
     --links: hsl(228, 45%, 44%)
 }
 
@@ -30,6 +31,7 @@ body {
     background-color: var(--card-bg-color);
     padding: 16px;
     border-radius: 20px;
+    box-shadow: 0 0 5px var(--card-shadow);
 }
 
 .card img {
